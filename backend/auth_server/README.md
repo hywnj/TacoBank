@@ -63,7 +63,7 @@ src/
 │   │           └── util/           # 공통 유틸리티 클래스
 │   └── resources/
 │       ├── application.yml        # 메인 환경 설정
-│       ├── application-local.yml  # 로컬 환경 설정
+│       ├── application-{서버명}.yml     # 서버별 환경 설정
 │       └── logback-spring.xml     # 로깅 설정
 │
 └── test/
