@@ -116,6 +116,6 @@ src/
 ---
 
 ## **💬 문의**  
-- **담당자**: Hyewon Ju ([GitHub](https://github.com/hywnj))  
+- **담당자**: [Hyewon Ju](https://github.com/hywnj)  |  [Han Ji Yun](https://github.com/Koreanpaper)
 - **이메일**: jhjsjym@naver.com
 
