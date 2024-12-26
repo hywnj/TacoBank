@@ -70,3 +70,10 @@ src/
     └── java/
         └── com.almagest_dev.tacobank_auth_server/
             └── AuthServiceTest.java         # AuthService 회원가입 테스트
+
+---
+
+## **💬 문의**  
+- **담당자**: Hyewon Ju ([GitHub](https://github.com/hywnj))  
+- **이메일**: jhjsjym@naver.com
+
