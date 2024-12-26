@@ -85,3 +85,9 @@
 ### **2. RBAC(Role-Based Access Control)**
 - **사용자 권한(ROLE_USER)**: 기본 기능 접근 가능
 - **관리자 권한(ROLE_ADMIN)**: 관리자 페이지는 현재 미구현 상태이나, 역할 기반 제한은 구현 완료
+
+---
+
+## **💬 문의**  
+- **담당자**: Hyewon Ju ([GitHub](https://github.com/hywnj))  
+- **이메일**: jhjsjym@naver.com
