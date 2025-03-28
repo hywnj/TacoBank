@@ -51,8 +51,8 @@
 
 ```plaintext
 TacoBank/ 
-├── frontend/ # 프론트엔드 코드 (React, TypeScript 등) 
-├── backend/ # 백엔드 코드 (Spring Boot, Java 등) 
+├── frontend/ # 프론트엔드 (React, TypeScript...) 
+├── backend/ # 백엔드 (Spring Boot, Java...) 
 └── README.md # 메인 리드미
 ```
 
@@ -62,7 +62,7 @@ TacoBank/
 ## **🚀 백엔드 상세 설명**
 타코뱅크의 백엔드 아키텍처 및 구현 내용은 아래 문서에서 확인해보세요!
 
-🔗 **[백엔드 README 보기](./backend/README.md)**
+🔗 **[백엔드 바로가기](./backend)**
 <br><br>
 
 
